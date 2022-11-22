@@ -8,7 +8,7 @@ window.onscroll = function() {
     } else {
         header.classList.remove('navbar-fixed');
     }
-}
+};
 
 // Hamburger
 const hamburger = document.querySelector('#hamburger');
